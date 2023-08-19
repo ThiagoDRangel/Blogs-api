@@ -42,3 +42,13 @@ docker exec -it blogs_api bash
 ```bash
 npm install
 ```
+
+- Create DB and Tables
+```bash
+npm run prestart
+```
+-Insert Seeds
+```bash
+npm run seed
+```
+![Alt text](image.png)
